@@ -1,5 +1,5 @@
 ## https://github.com/heixin518/ProgrammingAssignment2
-## SHA-1 hash：
+## SHA-1 hash：f28db1023337d390ca2f765937cdba210278395e
 
 ## Q1: makeCacheMatrix Function
 makeCacheMatrix <- function(x = matrix()) {
